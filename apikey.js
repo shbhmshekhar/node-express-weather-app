@@ -1,0 +1,5 @@
+const WEATHER_STACK_API_KEY = 'c00ec937dbd688a43902340438f99da5';
+const MAP_BOX_API_KEY =
+  'pk.eyJ1Ijoic2hiaG1zaGVraGFyIiwiYSI6ImNsNWp0bDF4aTAzbGozZG80YzN5a3N6cHgifQ.fdxZ3mWb76hb9omO8xnfRg';
+
+module.exports = { WEATHER_STACK_API_KEY, MAP_BOX_API_KEY };
